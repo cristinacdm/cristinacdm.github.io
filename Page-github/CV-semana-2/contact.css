@@ -171,7 +171,7 @@ textarea:focus-visible {
 
 
 .wallpaper {
-    background-image: url("/images/background.jpg");
+    background-image: url("images/background.jpg");
     background-position: center;
     background-size: cover;
     position: fixed;
